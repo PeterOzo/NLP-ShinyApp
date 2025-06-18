@@ -40,7 +40,7 @@ Confidence Score (0–100 %)
 
 Detailed Breakdown of strong vs. moderate indicators on both sides
 
-Explanatory Guidance—tips on how to verify or interpret the result
+Explanatory Guidance tips on how to verify or interpret the result
 
 About Research
 
