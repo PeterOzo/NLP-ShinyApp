@@ -4,7 +4,7 @@
 ### Deployment-ready for ShinyApps.io
 
 🚀 Overview
-This interactive Shiny dashboard implements a state-of-the-art, research-driven system for detecting COVID-19 “real” vs. “misinformation” content. At its core, we leverage a finely tuned ensemble of keyword- and pattern-based indicators—derived from peer-reviewed publications, clinical-trial references, and known conspiracy lexicons—to give each user-supplied snippet a verdict and confidence score. The app is split into multiple tabs so you can:
+This interactive Shiny dashboard implements a state-of-the-art, research-driven system for detecting COVID-19 “real” vs. “misinformation” content. At its core, we leverage a finely tuned ensemble of keyword- and pattern-based indicators derived from peer-reviewed publications, clinical-trial references, and known conspiracy lexicons—to give each user-supplied snippet a verdict and confidence score. The app is split into multiple tabs so you can:
 
 ### Dashboard
 
