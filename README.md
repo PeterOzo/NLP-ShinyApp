@@ -1,5 +1,8 @@
 # NLP-ShinyApp
+
 ## Covid Misinformation Detector ShinyApp
+
+### URL: https://peterchika3254.shinyapps.io/covid-misinformation-detector/
 
 ### Deployment-ready for ShinyApps.io
 
